@@ -1,0 +1,13 @@
+C:\Users\rudyc\source\repos\Pre-Laboratorio1_Marcos_Chutan_VD\Pre-Laboratorio1_Marcos_Chutan_VD\bin\Debug\Pre-Laboratorio1_Marcos_Chutan_VD.exe.config
+C:\Users\rudyc\source\repos\Pre-Laboratorio1_Marcos_Chutan_VD\Pre-Laboratorio1_Marcos_Chutan_VD\bin\Debug\Pre-Laboratorio1_Marcos_Chutan_VD.exe
+C:\Users\rudyc\source\repos\Pre-Laboratorio1_Marcos_Chutan_VD\Pre-Laboratorio1_Marcos_Chutan_VD\bin\Debug\Pre-Laboratorio1_Marcos_Chutan_VD.pdb
+C:\Users\rudyc\source\repos\Pre-Laboratorio1_Marcos_Chutan_VD\Pre-Laboratorio1_Marcos_Chutan_VD\obj\Debug\Pre-Laboratorio1_Marcos_Chutan_VD.csproj.AssemblyReference.cache
+C:\Users\rudyc\source\repos\Pre-Laboratorio1_Marcos_Chutan_VD\Pre-Laboratorio1_Marcos_Chutan_VD\obj\Debug\Pre_Laboratorio1_Marcos_Chutan_VD.Form1.resources
+C:\Users\rudyc\source\repos\Pre-Laboratorio1_Marcos_Chutan_VD\Pre-Laboratorio1_Marcos_Chutan_VD\obj\Debug\Pre_Laboratorio1_Marcos_Chutan_VD.Properties.Resources.resources
+C:\Users\rudyc\source\repos\Pre-Laboratorio1_Marcos_Chutan_VD\Pre-Laboratorio1_Marcos_Chutan_VD\obj\Debug\Pre-Laboratorio1_Marcos_Chutan_VD.csproj.GenerateResource.cache
+C:\Users\rudyc\source\repos\Pre-Laboratorio1_Marcos_Chutan_VD\Pre-Laboratorio1_Marcos_Chutan_VD\obj\Debug\Pre-Laboratorio1_Marcos_Chutan_VD.csproj.CoreCompileInputs.cache
+C:\Users\rudyc\source\repos\Pre-Laboratorio1_Marcos_Chutan_VD\Pre-Laboratorio1_Marcos_Chutan_VD\obj\Debug\Pre-Laboratorio1_Marcos_Chutan_VD.exe
+C:\Users\rudyc\source\repos\Pre-Laboratorio1_Marcos_Chutan_VD\Pre-Laboratorio1_Marcos_Chutan_VD\obj\Debug\Pre-Laboratorio1_Marcos_Chutan_VD.pdb
+C:\Users\rudyc\source\repos\Pre-Laboratorio1_Marcos_Chutan_VD\Pre-Laboratorio1_Marcos_Chutan_VD\obj\Debug\Pre_Laboratorio1_Marcos_Chutan_VD.Form2.resources
+C:\Users\rudyc\source\repos\Pre-Laboratorio1_Marcos_Chutan_VD\Pre-Laboratorio1_Marcos_Chutan_VD\obj\Debug\Pre_Laboratorio1_Marcos_Chutan_VD.Form3.resources
+C:\Users\rudyc\source\repos\Pre-Laboratorio1_Marcos_Chutan_VD\Pre-Laboratorio1_Marcos_Chutan_VD\obj\Debug\Pre_Laboratorio1_Marcos_Chutan_VD.Form4.resources
